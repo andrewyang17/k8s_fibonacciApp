@@ -1,5 +1,5 @@
 ## App Design
-![design](dev.png)
+![design](design.png)
 
 ## Kubernetes
 ![k8s](k8s.png)
